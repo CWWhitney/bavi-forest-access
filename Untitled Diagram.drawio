@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T09:31:35.489Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GybWoThob98X382rhFvt" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T09:40:36.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Eb1ClzXz55QCrD9Faru3" version="24.0.8" type="github">
   <diagram name="Page-1" id="wUotSKuQ0ViegSPMuA-_">
     <mxGraphModel dx="757" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BSKofoPwmJS12K2rgoMe-1" value="Conservation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="442" y="256" width="80" height="40" as="geometry" />
+          <mxGeometry x="435" y="256" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BSKofoPwmJS12K2rgoMe-21" target="BSKofoPwmJS12K2rgoMe-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-2" value="Sust. Diets&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Conservation%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22260%22%20y%3D%22110%22%20width%3D%2290%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="102" width="90" height="28" as="geometry" />
+          <mxGeometry x="410" y="100.5" width="90" height="28" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BSKofoPwmJS12K2rgoMe-3" target="BSKofoPwmJS12K2rgoMe-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,13 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-4" value="&lt;span style=&quot;color: rgb(15, 15, 15); font-style: italic;&quot;&gt;Quality life years&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="513" y="136" width="90" height="40" as="geometry" />
+          <mxGeometry x="500" y="141" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BSKofoPwmJS12K2rgoMe-5" target="BSKofoPwmJS12K2rgoMe-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-5" value="Health Savings (govt)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="456" y="169" width="90" height="45" as="geometry" />
+          <mxGeometry x="435" y="164.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-6" value="NPV" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="766" y="273" width="40" height="30" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="245" y="177" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-37" value="Intangible cultural values" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="56" width="90" height="40" as="geometry" />
+          <mxGeometry x="458" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BSKofoPwmJS12K2rgoMe-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BSKofoPwmJS12K2rgoMe-15" target="BSKofoPwmJS12K2rgoMe-37" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -248,21 +248,42 @@
           <mxGeometry x="520" y="289" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBDsGGDEWp5nMSRiFF1W-23" value="&lt;font color=&quot;#0f0f0f&quot;&gt;Trad. knowledge&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#0f0f0f&quot;&gt;Trad. practices&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D35;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="509" y="87.5" width="152" height="40" as="geometry" />
+          <mxGeometry x="520" y="82" width="152" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBDsGGDEWp5nMSRiFF1W-24" value="&lt;font color=&quot;#0f0f0f&quot;&gt;cf. Marxist theory on means of prod.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0D35;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="579" y="119" width="129" height="40" as="geometry" />
+          <mxGeometry x="599" y="160" width="129" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBDsGGDEWp5nMSRiFF1W-25" value="Confidence, honoring culture/traditions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="631" y="159" width="129" height="40" as="geometry" />
+          <mxGeometry x="568" y="119" width="129" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBDsGGDEWp5nMSRiFF1W-26" value="Tourism" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="216" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="212.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XBDsGGDEWp5nMSRiFF1W-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.988;exitY=0.275;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XBDsGGDEWp5nMSRiFF1W-26" target="BSKofoPwmJS12K2rgoMe-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="552" y="210" as="sourcePoint" />
             <mxPoint x="700" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBDsGGDEWp5nMSRiFF1W-28" value="Education" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="547" y="27" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XBDsGGDEWp5nMSRiFF1W-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BSKofoPwmJS12K2rgoMe-15" target="XBDsGGDEWp5nMSRiFF1W-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="166" y="75" as="sourcePoint" />
+            <mxPoint x="490" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBDsGGDEWp5nMSRiFF1W-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSKofoPwmJS12K2rgoMe-37" target="XBDsGGDEWp5nMSRiFF1W-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176" y="85" as="sourcePoint" />
+            <mxPoint x="500" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XBDsGGDEWp5nMSRiFF1W-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XBDsGGDEWp5nMSRiFF1W-28" target="BSKofoPwmJS12K2rgoMe-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="186" y="95" as="sourcePoint" />
+            <mxPoint x="510" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
